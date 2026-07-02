@@ -63,6 +63,6 @@ At the end of every study session, we update two files to ensure continuity:
 
 ## 📌 Current Session Status & Next Steps
 
-* **Current Topic:** Step 0: Mathematical Foundations (Linear Algebra & Calculus Revision)
-* **Last Completed Action:** Structured study plan & updated workflow guide based on course problem-set analysis.
-* **Next Action/Lesson:** Lesson 0.1: Vectors, Matrices, and Matrix Multiplications (with Visual/Geometric Intuition).
+* **Current Topic:** Step 0: Mathematical Foundations
+* **Last Completed Action:** Initial curriculum setup and pushing to GitHub.
+* **Next Action/Lesson:** Lesson 0.1: Checkpoint 0.1 (Matrix dimensions practice - $X\theta$ and $\theta X$). No lecture has been delivered yet; we will start fresh with Lesson 0.1 when you return.
