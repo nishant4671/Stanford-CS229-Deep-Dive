@@ -6,7 +6,7 @@
 ## Progress
 - **Week 1 (Current)**:
   - [ ] Linear Algebra Review
-  - [ ] Probability & Statistics Review
+  - [x] Probability & Statistics Review
   - [ ] Multivariable Calculus Review
   - [ ] L1 & L2: Introduction to ML & Supervised Learning (Linear Regression)
   - [ ] PS0 (Diagnostic)
